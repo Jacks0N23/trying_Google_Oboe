@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RhythmGame/RhythmGame.iml" filepath="$PROJECT_DIR$/RhythmGame/RhythmGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audio-device/audio-device.iml" filepath="$PROJECT_DIR$/audio-device/audio-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-oboe/hello-oboe.iml" filepath="$PROJECT_DIR$/hello-oboe/hello-oboe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples.iml" filepath="$PROJECT_DIR$/samples.iml" />
+    </modules>
+  </component>
+</project>
